@@ -29,20 +29,20 @@ description: 'Molho de tomate, queijo mussarela e orégano.'
 
 {    
     id: 4,
-    name: 'CINCO QUEIJOS',
+    name: 'Portuguesa',
     img: 'images/pizza4.png',
     price: [25.00, 34.00, 35.00],
     sizes: ['PEQUENO', 'MÉDIA', 'GRANDE'],
-    description: 'Uma combinação deliciosa de queijos.'
+    description: ' Presunto, ovos, cebola, ervilha, azeitonas, queijo.'
 },
 
 {    
     id: 5,
-    name: ' QUEIJOS',
+    name: ' Napolitana',
     img: 'images/pizza5.png',
     price: [15.00, 21.00, 37.00],
     sizes: ['PEQUENO', 'MÉDIA', 'GRANDE'],
-    description: 'Uma deliciosa de queijos.'
+    description: 'Queijo, tomate, parmesão e orégano.'
 }
 
 
